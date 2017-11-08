@@ -14,10 +14,9 @@ namespace Dados
             this.Saldo -= (Valor + 0.50);
             return this.Saldo;
         }
-
         
-        public void CadastrarConta(string Numero, string Agencia, string Conta, string RazaoSocial, DateTime DataAbertura, string CNPJ){
-
+        public void CadastrarConta(string Numero, string Agencia, double Saldo, string RazaoSocial, DateTime DataAbertura, string CNPJ){
+            
         }
     }
 }

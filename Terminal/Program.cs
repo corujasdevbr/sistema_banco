@@ -51,6 +51,18 @@ namespace Terminal
                 }
             }while(cnpjvalido != true);
 
+            Console.WriteLine("Digite seu número de conta");
+            string numeroconta = Console.ReadLine();
+
+            Console.WriteLine("Digite a agência");
+            string agencia = Console.ReadLine();
+
+            Console.WriteLine("Digite o saldo");
+            double saldo = Convert.ToDouble(Console.ReadLine());
+
+            
+            
+
 
         }
     }

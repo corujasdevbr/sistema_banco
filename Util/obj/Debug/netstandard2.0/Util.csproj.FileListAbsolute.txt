@@ -1,0 +1,8 @@
+c:\Users\fernando.henrique\backend\banco\Util\obj\Debug\netstandard2.0\Util.csproj.CoreCompileInputs.cache
+c:\Users\fernando.henrique\backend\banco\Util\obj\Debug\netstandard2.0\Util.AssemblyInfoInputs.cache
+c:\Users\fernando.henrique\backend\banco\Util\obj\Debug\netstandard2.0\Util.AssemblyInfo.cs
+c:\Users\fernando.henrique\backend\banco\Util\bin\Debug\netstandard2.0\Util.deps.json
+c:\Users\fernando.henrique\backend\banco\Util\bin\Debug\netstandard2.0\Util.dll
+c:\Users\fernando.henrique\backend\banco\Util\bin\Debug\netstandard2.0\Util.pdb
+c:\Users\fernando.henrique\backend\banco\Util\obj\Debug\netstandard2.0\Util.dll
+c:\Users\fernando.henrique\backend\banco\Util\obj\Debug\netstandard2.0\Util.pdb

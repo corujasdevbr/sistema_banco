@@ -87,7 +87,7 @@ namespace Util
         public bool ValidarCNPJ(string cnpj){
 
             //Retira os caracteres especiais do CNPJ
-            cnpj = cnpj.Trim().Replace(".", "").Replace("-","");
+            cnpj = cnpj.Trim().Replace(".", "").Replace("-","").Replace("/","");
 
             //Verifica se o CNPJ possui 14 caracteres
             if (cnpj.Length != 14){
